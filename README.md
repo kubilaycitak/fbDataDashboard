@@ -5,12 +5,10 @@ To extract data from Crowdtangle with selenium library.
 - Facebook account with Crowdtangle authentication access.
 - Python 3.7
 ### Setup
-- Make sure you have ``` Chromedriver ```  and ``` webdriver-manager ``` installed. If not, you can use pip;
+- You can install required setups from pip;
 
     ``` commandline
-    $ pip install chromedriver
-    $ pip install webdriver-manager
-
+    $ pip install -r requirements.txt
     ```
 
 #### Usage
