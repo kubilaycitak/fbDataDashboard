@@ -1,4 +1,4 @@
-# CSV Download Automation for Facebook Data from Crowdtangle
+# Getting CSV Automation for Facebook Data from Crowdtangle
 ### Purpose
 To extract data from Crowdtangle with selenium library.
 ### Pre-requisites
