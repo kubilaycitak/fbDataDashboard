@@ -1,6 +1,6 @@
 # Getting CSV Automation for Facebook Data from Crowdtangle
 ### Purpose
-To extract data from Crowdtangle with selenium library.
+- To extract data from Crowdtangle with selenium library.
 ### Pre-requisites
 - Facebook account with Crowdtangle authentication access.
 - Python 3.7
